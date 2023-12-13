@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**pvelll/pvelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm currently studying at the Faculty of Radiophysics and Computer Technologies, specializing in Computer Security.
 
-Here are some ideas to get you started:
+## My Interests
+I'm particularly interested in Android application development, using either Java or Kotlin. I love the challenge of creating efficient, user-friendly apps that make people's lives easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+Feel free to reach out to me through any of the following platforms:
+
+- LinkedIn(https://www.linkedin.com/in/pavel-sushko-865914279/)
+- Telegram(https://t.me/pvelll)
