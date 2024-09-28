@@ -4,7 +4,7 @@
 I'm currently studying at the Faculty of Radiophysics and Computer Technologies, specializing in Computer Security.
 
 ## My Interests
-I'm particularly interested in Android application development, using either Java or Kotlin. I love the challenge of creating efficient, user-friendly apps that make people's lives easier.
+I'm particularly interested in development client or server applications using Kotlin. I love the challenge of creating efficient, user-friendly apps that make people's lives easier.
 
 ## Connect with Me
 Feel free to reach out to me through any of the following platforms
