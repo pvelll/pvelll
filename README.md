@@ -1,10 +1,5 @@
 # Hello, World! 👋
 
-## About Me
-I'm currently studying at the Faculty of Radiophysics and Computer Technologies, specializing in Computer Security.
-
-## My Interests
-I'm particularly interested in development client or server applications using Kotlin. I love the challenge of creating efficient, user-friendly apps that make people's lives easier.
 ## Curriculum Vitae 
 - [CV is here](https://github.com/pvelll/pvelll/blob/main/CV.pdf)
 ## Connect with Me
